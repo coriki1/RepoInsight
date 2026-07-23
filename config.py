@@ -1,0 +1,18 @@
+SUPPORTED_EXTENSIONS = {
+    ".c", ".cc", ".cpp", ".cxx", ".h", ".hpp", ".hxx",
+    ".py", ".pyi", ".pyx",
+    ".js", ".jsx", ".mjs", ".cjs", ".ts", ".tsx",
+    ".html", ".htm", ".css", ".scss", ".sass", ".less", ".vue", ".svelte",
+    ".java", ".kt", ".kts", ".scala", ".groovy",
+    ".cs", ".vb", ".fs",
+    ".go", ".rs", ".swift", ".m", ".mm", ".zig", ".d",
+    ".rb", ".php", ".pl", ".lua", ".r", ".jl",
+    ".hs", ".ml", ".clj", ".cljs", ".ex", ".exs", ".erl", ".elm",
+    ".dart",
+    ".json", ".yaml", ".yml", ".toml", ".xml", ".cfg", ".ini",
+    ".env", ".properties",
+    ".md", ".rst", ".txt", ".adoc",
+    ".sh", ".bash", ".zsh", ".ps1", ".bat", ".cmd",
+    ".sql", ".graphql", ".proto",
+    ".ipynb",
+}
